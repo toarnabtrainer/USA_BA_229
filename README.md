@@ -22,6 +22,10 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 * **How to remove password from an Excel Worksheet:** https://www.youtube.com/watch?v=fsVb6id97_E&list=PLmkaw6oRnRv9uEamCt-PXS-bP-rmoxcLc&index=3
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
+
+**YouTube MS-Excel Tutorial Link:**<br>
+https://www.youtube.com/watch?v=-ujVQzTtxSg&list=PLWPirh4EWFpEpO6NjjWLbKSCb-wx3hMql
+
 <hr>
 
 <h2>Quality Analyst Training Resources...</h2>
